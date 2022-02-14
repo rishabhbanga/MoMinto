@@ -1,0 +1,5 @@
+# Build Settings
+plugins:
+  - jekyll-remote-theme
+remote_theme: 
+  - inded/Jekyll_modern-blog
